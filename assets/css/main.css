@@ -96,6 +96,14 @@ p
 
     letter-spacing: .02em;
 }
+li
+{
+    margin-top: 2ex;
+    margin-bottom: 3ex;
+}
+li.white {
+	color: #333;
+}
 
 a,
 a:hover,
@@ -578,7 +586,6 @@ section.white h6
 }
 
 section.white p,
-section.white a,
 section.white span
 {
     color: #333;
