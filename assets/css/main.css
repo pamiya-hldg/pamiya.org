@@ -870,7 +870,7 @@ section .headline
 
 #about .subline
 {
-    max-width: 77%;
+    max-width: 100%;
     margin: 0 auto 2em auto;
 }
 
