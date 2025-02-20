@@ -104,6 +104,9 @@ li
 li.white {
 	color: #333;
 }
+ul {
+	list-style-position: insde;
+}
 
 a,
 a:hover,
